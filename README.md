@@ -78,6 +78,3 @@ This is a basic educational example. For production use, consider:
 
 This project is open source and free to use.
 # Crud_operations
-# Crud_operations
-# Crud_operations
-# Crud_operations
